@@ -1,0 +1,10 @@
+# Dependencias para reproducir el Proyecto 1 (probado con Python 3.9)
+pandas==2.3.3
+numpy==2.0.2
+scikit-learn==1.6.1
+matplotlib==3.9.4
+seaborn==0.13.2
+xlrd==2.0.2          
+plotly==6.8.0     
+jupyter
+notebook
